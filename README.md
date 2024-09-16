@@ -5,12 +5,13 @@
 Welcome to my GitHub profile! I'm Gaurav, a passionate penetration tester and Python enthusiast with over a year of hands-on experience in ethical hacking and web application security. My journey in cybersecurity started with a spark from a Linux distributions book, and I've been exploring the world of ethical hacking and security ever since.
 
 ### 🔐 **Certifications & Expertise**  
-- **Web Application Penetration Testing**  
+- **Web Application Penetration Testing - Axom Security / Rony Das**  
   Certified Web Application Penetration Tester with experience in identifying and exploiting vulnerabilities in complex web applications.
 - **Certified by EC-Council**  
   - Ethical Hacking Essentials (EHE)  
   - Digital Forensics Essentials (DFE)  
   - Network Defense Essentials (NDE)
+  - Cybersecurity for Businesses - The Fundamental Edition
 - **Android Security**  
   Certified in Android Malware Analysis & Penetration Testing.
 - **Python for Security**  
