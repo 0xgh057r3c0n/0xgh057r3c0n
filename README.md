@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm Gaurav, a passionate penetration tester and Py
   Specialized in Python for Ethical Hacking, OSINT.
 
 ### 🚀 **Skills & Tools**
-- **Web & Application Security**: Vulnerability assessment, network security, and privilege escalation.
-- **Programming Languages**: Python, Bash, HTML/CSS, JavaScript.
+- **Web & Application Security**: SQL injection (Manual), Hash Cracking, Clickjacking ,XXS, SSRF , WAF Bypassing , Vulnerability Scanning , Cross Origin Resource Sharing , Remote Code Execution, Path Traversal , O Auth Authentication , API Testing.
+- **Programming Languages**: Python, Bash, HTML/CSS.
   
 ### 💻 **Hack The Box Achievements**  
 I've solved several advanced challenges from Hack The Box (Season 5), including:  
