@@ -1,4 +1,5 @@
-Hi there, I'm Gaurav Bhattacharjee! I'm a Web Application Penetration Tester from assam with 2 years of field expertise. My primary focus is on identifying and addressing security vulnerabilities in web applications using a wide range of advanced tools and techniques. I'm passionate about contributing to the cybersecurity community and continuously improving my skills in penetration testing, vulnerability assessment, Python, and more.
+Hi there, I'm Gaurav Bhattacharjee! 
+I'm a Web Application Penetration Tester from assam with 2 years of field expertise. My primary focus is on identifying and addressing security vulnerabilities in web applications using a wide range of advanced tools and techniques. I'm passionate about contributing to the cybersecurity community and continuously improving my skills in penetration testing, vulnerability assessment, Python, and more.
 
 
 
@@ -35,7 +36,6 @@ Hi there, I'm Gaurav Bhattacharjee! I'm a Web Application Penetration Tester fro
 ---
 
 ### 🎓 Certifications
-- **i there, I'm Gaurav Bhattacharjee! I'm a Web Application Penetration Tester from assam with 2 years of field expertise. My primary focus is on identifying and addressing security vulnerabilities in web applications using a wide range of advanced tools and techniques. I'm passionate about contributing to the cybersecurity community and continuously improving my skills in penetration testing, vulnerability assessment, Python, and more.**
 - **Ethical Hacking / Web Application Security** - Axom Security
 - **Ethical Hacker Essentials** - EC-Council
 - **Network Defense Essentials** - EC-Council
@@ -51,7 +51,7 @@ Hi there, I'm Gaurav Bhattacharjee! I'm a Web Application Penetration Tester fro
 
 - 🌱 Currently learning more about advanced penetration testing techniques, OSINT using Python, and artificial intelligence applications in cybersecurity.
 - 🔭 Looking for opportunities to contribute to cybersecurity teams, especially in penetration testing, Python development, and vulnerability assessment.
-
+- Hi there, I'm Gaurav Bhattacharjee! I'm a Web Application Penetration Tester from assam with 2 years of field expertise. My primary focus is on identifying and addressing security vulnerabilities in web applications using a wide range of advanced tools and techniques. I'm passionate about contributing to the cybersecurity community and continuously improving my skills in penetration testing, vulnerability assessment, Python, and more.
 ---
 
 ### 📊 GitHub Stats
