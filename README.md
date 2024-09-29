@@ -73,7 +73,6 @@ Check out my projects on [GitHub](https://github.com/0xgh057r3c0n?tab=repositori
 
 ### 🌐 Contact Me
 
-- **Phone:** +91 8876072154  
 - **Email:** [gauravbhattacharjee54@gmail.com](mailto:gauravbhattacharjee54@gmail.com)  
 - **LinkedIn:** [Gaurav Bhattacharjee](https://www.linkedin.com/in/gaurav-bhattacharjee)
 
