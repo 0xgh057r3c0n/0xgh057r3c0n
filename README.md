@@ -73,7 +73,7 @@ Check out my projects on [GitHub](https://github.com/0xgh057r3c0n?tab=repositori
 
 ### 🌐 Contact Me
 
-- **Email:** [gauravbhattacharjee54@gmail.com](mailto:anonopsnortheast@protonbmail.com)  
+- **Email:** [anonopsnortheast@protonbmail.com](mailto:anonopsnortheast@protonbmail.com)  
 ---
 
 ### 🌍 Languages
