@@ -46,9 +46,10 @@ I'm a **Web Application Penetration Tester** from Assam with 2 years of field ex
 - **Network Defense Essentials** - EC-Council
 - **Digital Forensic Essentials** - EC-Council
 - **Cybersecurity for Businesses - The Fundamental Edition** - EC-Council
-- **Python for OSINT** - Google Developer Launchpad
 - **Python for Artificial Intelligence** - Google Developer Launchpad
 - **Python Certification** - Google Developer Launchpad
+- **Git Certification** - Google Developer Launchpad
+- **Linux Certification** - Google Developer Launchpad
 
 ---
 
