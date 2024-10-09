@@ -1,6 +1,6 @@
 # Hi there, I'm Gaurav Bhattacharjee! 👋
 
-I'm a **Web Application Penetration Tester** from Assam with 2 years of field expertise. My primary focus is on identifying and addressing security vulnerabilities in web applications using advanced tools and techniques. I am passionate about contributing to the cybersecurity community, while continuously improving my skills in penetration testing, vulnerability assessment, Python, and more.
+I'm a **Web Application Penetration Tester** and **Offensive Security Engineer (Software Engineer)** from Assam with 2 years of field expertise. My primary focus is on identifying and addressing security vulnerabilities in web applications using advanced tools and techniques. I am passionate about contributing to the cybersecurity community, while continuously improving my skills in penetration testing, vulnerability assessment, Python, and more.
 
 ![GitHub followers](https://img.shields.io/github/followers/0xgh057r3c0n?style=social) 
 ![Profile views](https://komarev.com/ghpvc/?username=0xgh057r3c0n&color=green)
