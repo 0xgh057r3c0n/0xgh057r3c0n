@@ -9,8 +9,8 @@
 
 ## 🚀 What I’m Working On
 
-* 🌱 Currently learning more about advanced penetration testing techniques, OSINT using Python, and artificial intelligence applications in cybersecurity.
-* 🔭 Looking for opportunities to contribute to cybersecurity teams, especially in penetration testing, Python development, and vulnerability assessment.
+* 🌱 Deepening knowledge in advanced penetration testing techniques, OSINT with Python, and AI applications in cybersecurity.
+* 🔭 Seeking opportunities to contribute in penetration testing, Python development, and vulnerability assessment.
 
 ---
 
@@ -28,6 +28,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=0xgh057r3c0n&theme=dracula" alt="GitHub Trophies"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=0xgh057r3c0n&theme=dracula" alt="Contribution Graph"/>
+</p>
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -46,12 +51,20 @@
 * WAF Bypassing
 * Vulnerability Scanning
 
-### ⚡ Tools & Frameworks
+### ⚡ Tools & Frameworks (Proficient in Usage)
 
-* **Burp Suite** | **OWASP ZAP** | **GoBuster** | **Sub Finder**
-* **NMAP** | **Netcat** | **SQLmap dev**
-* **John the Ripper** | **Metasploit** | **Setoolkit**
-* **Responder** | **Impacket**
+* Burp Suite
+* OWASP ZAP
+* GoBuster
+* Sub Finder
+* NMAP
+* Netcat
+* SQLmap (development branch)
+* John the Ripper
+* Metasploit
+* Setoolkit
+* Responder
+* Impacket
 
 ---
 
@@ -84,7 +97,7 @@
 
 ## 🔗 Repositories
 
-Check out my work: [@0xgh057r3c0n](https://github.com/0xgh057r3c0n?tab=repositories)
+Explore my projects: [@0xgh057r3c0n](https://github.com/0xgh057r3c0n?tab=repositories)
 
 ---
 
