@@ -27,11 +27,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0xgh057r3c0n&theme=dracula" alt="GitHub Trophies"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=0xgh057r3c0n&theme=dracula" alt="Contribution Graph"/>
-</p>
-
 ---
 
 ## 🛠️ Technical Skills
