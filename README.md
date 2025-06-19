@@ -102,7 +102,7 @@ Explore my projects: [@0xgh057r3c0n](https://github.com/0xgh057r3c0n?tab=reposit
 * ✉️ Email: [gauravbhattacharjee54@gmail.com](mailto:gauravbhattacharjee54@gmail.com)
 * 🔗 LinkedIn: [Gaurav Bhattacharjee](https://www.linkedin.com/in/gaurav-bhattacharjee/)
 * 💻 GitHub: [0xgh057r3c0n](https://github.com/0xgh057r3c0n/)
-* 🌐 Portfolio: [View Portfolio](https://0xgh057r3c0n.github.io/portfolio/)
+* 🌐 Portfolio: [View Portfolio](https://0xgh057r3c0n.github.io/)
 
 ---
 
