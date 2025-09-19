@@ -42,15 +42,42 @@
 
 ## 🛠️ Technical Skills  
 
-### 🔐 Web Application Security
-- SQL Injection (Manual) • XSS • SSRF • RCE • OAuth • Path Traversal  
-- Clickjacking • API Testing • CORS • WAF Bypassing • Hash Cracking  
+### 🔐 Web Application Security  
+- **Injection & Parsing:** SQLi · NoSQLi · Command Injection · XPath Injection · XXE  
+- **Cross-Site & Client Attacks:** XSS · HTML Injection · CSRF · Clickjacking · Web Cache Poisoning  
+- **Authentication & Session:** Broken Authentication · Session Fixation · Auth Bypass · JWT Manipulation · OAuth flaws  
+- **Access Control & Authorization:** IDOR · BOLA · BFLA · Privilege Escalation · Broken Access Control  
+- **Serialization & Logic:** Insecure Deserialization · Template Injection · Mass Assignment · Business Logic Bugs  
+- **Server & Request Handling:** SSRF · HTTP Request Smuggling · HTTP Verb Tampering · Host Header Injection · HTTP Parameter Pollution  
+- **File & Routing:** Path Traversal · Open Redirect  
+- **Discovery & Hardening Testing:** Information Disclosure · Security Misconfiguration · WAF Bypassing · Hash Cracking  
 
-### ⚙️ Tools & Frameworks
-- **Pentesting Tools:** Burp Suite, OWASP ZAP, Nmap, GoBuster, SQLmap  
-- **Exploitation & Post-Exploitation:** Metasploit, Netcat, Responder, Impacket  
-- **Password Attacks:** John the Ripper, Hashcat  
-- **Recon & OSINT:** Subfinder, Custom Python Scripts  
+---
+
+### 📡 API Security & Testing (REST / GraphQL / RPC)  
+- **Auth & Identity:** Broken Authentication · JWT Tampering · Rate Limiting Bypass  
+- **Authorization:** BOLA · BFLA · IDOR  
+- **Injection & Input:** SQLi · NoSQLi · Command Injection · XXE · SSPP · Insecure Deserialization  
+- **Logic & Business:** Mass Assignment · Business Logic Flaws · Deprecated Endpoint Abuse  
+- **Discovery & Enumeration:** API Enumeration · Documentation Abuse · Unauthenticated Endpoints  
+- **Operational:** Information Disclosure · CORS Misconfigurations  
+
+---
+
+### 🤖 Android Pentesting (Basic → Intermediate)  
+- **Static & Dynamic Analysis:** Code inspection · Reverse Engineering · Runtime hooking  
+- **Storage & IPC:** Local storage flaws · IPC Attacks  
+- **Networking & Auth:** Communication Security · Authentication & Session Mgmt issues  
+- **Binary & Runtime Protections:** Code Injection · Root Detection & Bypass · Anti-tamper & Obfuscation  
+- **Platform-Specific:** WebView Attacks · Intent misuse · Permission Misconfigurations  
+
+---
+
+### ⚙️ Tools & Frameworks  
+- **Pentesting:** Burp Suite · OWASP ZAP · Nmap · GoBuster · SQLmap  
+- **Exploitation & Post-Exploitation:** Metasploit · Netcat · Responder · Impacket  
+- **Password Attacks:** John the Ripper · Hashcat  
+- **Recon & OSINT:** Subfinder · Custom Python Scripts  
 
 ---
 
