@@ -185,5 +185,3 @@ Built:
 ---
 
 > “Cybersecurity isn’t just about hacking — it’s about protecting what matters.”
-
-````
