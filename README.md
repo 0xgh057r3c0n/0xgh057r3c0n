@@ -159,7 +159,7 @@ Location: India
 # 🧠 TryHackMe
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/G4UR4V007.png"/>
 </p>
 
 ---
@@ -167,7 +167,7 @@ Location: India
 # 🎯 Hack The Box
 
 <p align="center">
-  <img src="https://www.hackthebox.com/badge/image/YOUR_HTB_ID"/>
+  <img src="https://www.hackthebox.com/badge/image/G4UR4V007"/>
 </p>
 
 ---
