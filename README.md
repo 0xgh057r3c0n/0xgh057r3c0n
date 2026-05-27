@@ -1,4 +1,3 @@
-````md
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Gaurav+Bhattacharjee;Cybersecurity+Researcher;Web+%26+Android+Pentester;CVE+PoC+Developer;Bug+Bounty+Hunter;OSINT+%26+AI+Security+Enthusiast" />
 
 <h3 align="center">🛡️ Offensive Security Researcher | Web & Android Pentester | CVE Researcher</h3>
