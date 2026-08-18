@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Gaurav Bhattacharjee</h1>
-<h3 align="center">Web & Android Application Penetration Tester</h3>
+<h3 align="center">Penetration Tester</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Cyber%20Security%20Professional-00FFAA?style=for-the-badge&labelColor=0D1117" />
