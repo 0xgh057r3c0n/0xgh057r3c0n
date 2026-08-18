@@ -169,10 +169,10 @@ timeline
     2024 : Prodigy Infotech : Intern
           : The Red Users : Intern
     2024-2025 : Code Alpha : Intern
-    2026-Present : Infact Solutions : Security Admin L1
+    2026-Present : Infotact Solutions : Security Admin L1 - Intern
 ```
 
-**🛡️ Security Admin Associate L1 — Infact Solutions** *(Jun 2026 – Present)*
+**🛡️ Security Admin Associate L1 — Infotact Solutions** *(Jun 2026 – Present)*
 - Developing Secure OTA Firmware Update & Code Signing Infrastructure
 - Building AI-powered PHI/PII Redaction Pipeline for LLMs
 - Engineering SOAR Incident Containment Engine
