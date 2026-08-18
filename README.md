@@ -1,7 +1,10 @@
-<!-- ASCII BANNER -->
+<!-- PROFILE PICTURE & HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gaurav+Bhattacharjee;Web+%26+Android+Penetration+Tester;AI+Security+%7C+CVE+Researcher;penetration+Tester+%7C+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://github.com/0xgh057r3c0n.png" alt="Gaurav Bhattacharjee" width="160" height="160" style="border-radius: 50%;" />
 </p>
+
+<h1 align="center">Hi 👋 I'm Gaurav Bhattacharjee</h1>
+<h3 align="center">Web & Android Application Penetration Tester</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Cyber%20Security%20Professional-00FFAA?style=for-the-badge&labelColor=0D1117" />
@@ -247,7 +250,7 @@ timeline
 ### ☕ Support My Work
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/0xgh057r3c0n">
+  <a href="https://buymeacoffee.com/gauravbhaty">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
   <a href="https://ko-fi.com/0xgh057r3c0n">
