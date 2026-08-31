@@ -56,15 +56,15 @@ Research:
 
 ## 🛡️ Security Focus Areas
 
-| Area                      | Focus                                                                                 |
-| ------------------------- | ------------------------------------------------------------------------------------- |
-| 🌐 Web Security           | Application vulnerabilities, authentication, authorization, injection, business logic |
-| 🔌 API Security           | BOLA, BFLA, authorization, JWT, rate limiting, endpoint abuse                         |
-| 📱 Android Security       | Static analysis, dynamic analysis, reverse engineering, IPC, WebView                  |
-| 🤖 AI / LLM Security      | Prompt injection, RAG security, agent security, tool-calling risks                    |
-| 🔬 Vulnerability Research | CVE analysis, root-cause analysis, exploitability research                            |
-| ⚙️ Security Automation    | Python tooling, scanners, automation and security pipelines                           |
-| ☁️ DevSecOps              | CI/CD security, RBAC, secure deployment and automation                                |
+| Area                      | Focus                                                                                     |
+| ------------------------- | ----------------------------------------------------------------------------------------- |
+| 🌐 Web Security           | Application vulnerabilities, authentication, authorization, injection, and business logic |
+| 🔌 API Security           | BOLA, BFLA, authorization, JWT, rate limiting, and endpoint abuse                         |
+| 📱 Android Security       | Static analysis, dynamic analysis, reverse engineering, IPC, and WebView security         |
+| 🤖 AI / LLM Security      | Prompt injection, RAG security, agent security, and tool-calling risks                    |
+| 🔬 Vulnerability Research | CVE analysis, root-cause analysis, and exploitability research                            |
+| ⚙️ Security Automation    | Python tooling, scanners, automation, and security pipelines                              |
+| ☁️ DevSecOps              | CI/CD security, RBAC, secure deployment, and automation                                   |
 
 ---
 
@@ -198,14 +198,15 @@ Research:
 | [CVE-2025-31125](https://nvd.nist.gov/vuln/detail/CVE-2025-31125) | Vite WASM Path Traversal                  | 🟠 High     |
 | [CVE-2025-31161](https://nvd.nist.gov/vuln/detail/CVE-2025-31161) | CrushFTP Authentication Bypass            | 🔴 Critical |
 | [CVE-2025-3248](https://nvd.nist.gov/vuln/detail/CVE-2025-3248)   | Langflow AI RCE                           | 🔴 Critical |
-| [CVE-2025-34077](https://nvd.nist.gov/vuln/detail/CVE-2025-34077) | Pie Register Admin Session Hijack         | 🟠 High     |
+| [CVE-2025-34077](https://nvd.nist.gov/vuln/detail/CVE-2025-34077) | Pie Register Admin Session Hijacking      | 🟠 High     |
 | [CVE-2025-34085](https://nvd.nist.gov/vuln/detail/CVE-2025-34085) | Simple File List Plugin RCE               | 🔴 Critical |
-| [CVE-2025-47812](https://nvd.nist.gov/vuln/detail/CVE-2025-47812) | Wing FTP Server Lua Injection RCE         | 🔴 Critical |
+| [CVE-2025-47812](https://nvd.nist.gov/vuln/detail/CVE-2025-47812) | Wing FTP Server Lua Injection → RCE       | 🔴 Critical |
 | [CVE-2025-48827](https://nvd.nist.gov/vuln/detail/CVE-2025-48827) | vBulletin Critical API Access             | 🔴 Critical |
 | [CVE-2025-5777](https://nvd.nist.gov/vuln/detail/CVE-2025-5777)   | Citrix NetScaler Memory Leak              | 🟡 Medium   |
 | [CVE-2025-6058](https://nvd.nist.gov/vuln/detail/CVE-2025-6058)   | WPBlock Unauthenticated File Upload → RCE | 🔴 Critical |
 
 📂 **Research & PoCs:**
+
 https://github.com/0xgh057r3c0n
 
 ---
@@ -272,16 +273,16 @@ timeline
 
 **Oct 2024 – Nov 2024**
 
-* Network traffic monitoring
-* Threat investigation
-* Vulnerability assessment
-* Security analysis
+* Monitored network traffic
+* Investigated security threats
+* Performed vulnerability assessments
+* Conducted security analysis
 
 ### 🔑 Cyber Security Intern — Prodigy Infotech
 
 **Nov 2024**
 
-* Developed a Caesar Cipher implementation
+* Developed a Caesar cipher implementation
 * Built image encryption projects
 * Developed a password strength checker
 * Built a packet analyzer
@@ -302,7 +303,7 @@ timeline
 ### Education
 
 * **National Institute of Open Schooling** — Secondary Education
-* **Bongaigaon College** — Higher Secondary, Fine Arts
+* **Bongaigaon College** — Higher Secondary Education, Fine Arts
 
 ---
 
