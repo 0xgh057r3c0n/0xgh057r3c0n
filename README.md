@@ -1,7 +1,13 @@
 <!-- PROFILE HEADER -->
 
 <p align="center">
-  <img src="https://github.com/0xgh057r3c0n.png" alt="Gaurav Bhattacharjee" width="160" height="160" />
+  <img
+    src="https://github.com/0xgh057r3c0n.png"
+    alt="Gaurav Bhattacharjee"
+    width="160"
+    height="160"
+    style="border-radius: 50%;"
+  />
 </p>
 
 <h1 align="center">Hi 👋 I'm Gaurav Bhattacharjee</h1>
@@ -12,15 +18,15 @@
 
 <p align="center">
   <a href="https://github.com/0xgh057r3c0n">
-    <img src="https://img.shields.io/badge/GitHub-0xgh057r3c0n-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0xgh057r3c0n-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/CVE%20Research-11%2B-F7DF1E?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20API%20%7C%20AI%2FLLM-00FFAA?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Experience" />
+  <img src="https://img.shields.io/badge/CVE%20Research-11%2B-F7DF1E?style=for-the-badge&labelColor=0D1117" alt="CVE Research" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20API%20%7C%20AI%2FLLM-00FFAA?style=for-the-badge&labelColor=0D1117" alt="Focus Areas" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
 </p>
 
 ## 🚀 About Me
@@ -73,12 +79,16 @@ Research:
 <details>
 <summary><b>🌐 Web Application Security</b></summary>
 
+<br>
+
 `SQL Injection` · `NoSQL Injection` · `Command Injection` · `XPath Injection` · `XSS` · `CSRF` · `XXE` · `SSRF` · `IDOR` · `BOLA` · `HTTP Request Smuggling` · `HTTP Parameter Pollution` · `Host Header Injection` · `RCE` · `Path Traversal` · `Open Redirect` · `HTML Injection` · `Template Injection` · `Prototype Pollution` · `Cache Poisoning` · `Clickjacking` · `CORS Misconfiguration` · `JWT Manipulation` · `Session Fixation` · `Authentication Bypass` · `Privilege Escalation` · `Mass Assignment` · `Business Logic Flaws` · `WAF Evasion Testing`
 
 </details>
 
 <details>
 <summary><b>🔌 API Security</b></summary>
+
+<br>
 
 `BOLA` · `BFLA` · `IDOR` · `Mass Assignment` · `Broken Authentication` · `JWT Security` · `Rate Limit Testing` · `Business Logic Testing` · `CORS Testing` · `Endpoint Enumeration` · `API Abuse` · `Authorization Testing`
 
@@ -87,6 +97,8 @@ Research:
 <details>
 <summary><b>📱 Android Security</b></summary>
 
+<br>
+
 `Static Analysis` · `Dynamic Analysis` · `Local Storage Analysis` · `IPC Testing` · `Network Security Testing` · `Reverse Engineering` · `Frida Hooking` · `WebView Security` · `Root Detection Analysis` · `Binary Analysis` · `APK Analysis`
 
 </details>
@@ -94,12 +106,16 @@ Research:
 <details>
 <summary><b>🤖 AI / LLM Security</b></summary>
 
+<br>
+
 `Prompt Injection` · `Indirect Prompt Injection` · `Jailbreak Testing` · `System Prompt Leakage` · `Prompt Leakage` · `Hallucination Testing` · `RAG Security` · `Tool Calling Security` · `AI Agent Security` · `LLM Application Security` · `OWASP LLM Top 10`
 
 </details>
 
 <details>
 <summary><b>🔬 Vulnerability Research</b></summary>
+
+<br>
 
 `CVE Analysis` · `Root Cause Analysis` · `Patch Analysis` · `PoC Development` · `Exploitability Assessment` · `Vulnerability Validation` · `Security Advisory Research`
 
@@ -112,22 +128,62 @@ Research:
 ### Languages & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js,php,html,css,linux,mysql,git,aws,docker,jenkins,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,php,html,css,linux,mysql,git,aws,docker,jenkins,githubactions" alt="Technologies and Platforms" />
 </p>
 
 ### Security Tooling
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frida-FF6B6B?style=for-the-badge&logo=frida&logoColor=white" />
-  <img src="https://img.shields.io/badge/APKTool-00C853?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-8B4513?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLMap" />
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Frida-FF6B6B?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />
+  <img src="https://img.shields.io/badge/APKTool-00C853?style=for-the-badge&logo=android&logoColor=white" alt="APKTool" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-8B4513?style=for-the-badge&logo=linux&logoColor=white" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat" />
+  <img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge" alt="Nuclei" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=0xgh057r3c0n&show_icons=true&theme=radical&hide_border=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgh057r3c0n&theme=radical&hide_border=true&layout=compact&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=0xgh057r3c0n&theme=radical&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0xgh057r3c0n&bg_color=0D1117&color=00FFAA&line=FF6B6B&point=FFFFFF&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
@@ -138,33 +194,6 @@ Research:
   <img
     src="https://github-profile-trophy.vercel.app/?username=0xgh057r3c0n&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=0xgh057r3c0n&show_icons=true&theme=radical&hide_border=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-<img
- src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xgh057r3c0n&theme=radical&hide_border=true&layout=compact&langs_count=8"
- height="180"
- alt="Top Languages"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=0xgh057r3c0n&bg_color=0D1117&color=00FFAA&line=FF6B6B&point=FFFFFF&hide_border=true&custom_title=Gaurav%20Bhattacharjee%27s%20Contribution%20Graph"
-    width="95%"
-    alt="GitHub Activity Graph"
   />
 </p>
 
@@ -215,7 +244,7 @@ https://github.com/0xgh057r3c0n
 
 <p>
   <a href="https://medium.com/@gauravbhattacharjee54">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
@@ -294,10 +323,10 @@ timeline
 ### Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/EC--Council-Ethical%20Hacker%20Essentials-00AAFF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-00AAFF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC--Council-Digital%20Forensic%20Essentials-00AAFF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Programming%20Hub-Ethical%20Hacking-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EC--Council-Ethical%20Hacker%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Ethical Hacker Essentials" />
+  <img src="https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Network Defense Essentials" />
+  <img src="https://img.shields.io/badge/EC--Council-Digital%20Forensic%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Digital Forensic Essentials" />
+  <img src="https://img.shields.io/badge/Programming%20Hub-Ethical%20Hacking-FF6B6B?style=for-the-badge" alt="Ethical Hacking" />
 </p>
 
 ### Education
@@ -311,23 +340,23 @@ timeline
 
 <p align="left">
   <a href="mailto:gauravbhattacharjee54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
   <a href="https://www.linkedin.com/in/gaurav-bhattacharjee/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://github.com/0xgh057r3c0n">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <a href="https://0xgh057r3c0n.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 
   <a href="https://medium.com/@gauravbhattacharjee54">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
@@ -387,7 +416,7 @@ timeline
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
 </p>
 
 <h3 align="center">
