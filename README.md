@@ -1,88 +1,156 @@
-<!-- =========================================================
-     PROFILE HEADER
-========================================================= -->
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <a href="https://github.com/0xgh057r3c0n">
-    <img
-      src="https://github.com/0xgh057r3c0n.png?size=200"
-      alt="Gaurav Bhattacharjee"
-      width="160"
-      height="160"
-    />
-  </a>
+<div align="center">
+
+<a href="https://github.com/0xgh057r3c0n">
+  <img src="https://github.com/0xgh057r3c0n.png?size=200" width="160" alt="Gaurav Bhattacharjee"/>
+</a>
+
+# 👋 Hey, I'm Gaurav Bhattacharjee
+
+### 🛡️ Cybersecurity Researcher • Penetration Tester • Vulnerability Researcher
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Breaking+Systems+to+Make+Them+Safer;Web+Security+%7C+API+Security+%7C+AI%2FLLM+Security;Security+Research+%26+Vulnerability+Analysis;Always+Learning.+Always+Researching." alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Gaurav Bhattacharjee</h1>
-
-<h3 align="center">
-  Cybersecurity Researcher • Penetration Tester • Vulnerability Researcher
-</h3>
-
-<p align="center">
+<p>
   <a href="https://github.com/0xgh057r3c0n">
-    <img src="https://img.shields.io/badge/GitHub-0xgh057r3c0n-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0xgh057r3c0n-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Experience" />
-  <img src="https://img.shields.io/badge/CVE%20Research-11%2B-F7DF1E?style=for-the-badge&labelColor=0D1117" alt="CVE Research" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20API%20%7C%20AI%2FLLM-00FFAA?style=for-the-badge&labelColor=0D1117" alt="Focus Areas" />
+
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00FF88?style=for-the-badge&labelColor=0D1117" />
+
+  <img src="https://img.shields.io/badge/Research-Web%20%7C%20API%20%7C%20AI%2FLLM-FF4B91?style=for-the-badge&labelColor=0D1117" />
 </p>
+
+</div>
 
 ---
 
-# 🚀 About Me
+<!-- ========================================================= -->
+<!--                       ABOUT ME                             -->
+<!-- ========================================================= -->
 
-I'm a cybersecurity researcher and penetration tester focused on discovering, understanding, and responsibly demonstrating security vulnerabilities in modern applications and infrastructure.
-
-My primary areas of interest include **Web Application Security, API Security, Android Security, AI/LLM Security, Vulnerability Research, and Security Automation**.
+## 🧑‍💻 About Me
 
 ```yaml
-Role:
+name: Gaurav Bhattacharjee
+github: 0xgh057r3c0n
+
+roles:
   - Cybersecurity Researcher
   - Penetration Tester
   - Vulnerability Researcher
 
-Focus:
+focus:
   - Web Application Security
   - API Security
   - Android Security
   - AI / LLM Security
   - Vulnerability Research
   - Security Automation
-  - Secure Software Engineering
   - DevSecOps
 
-Research:
-  - CVE Analysis
-  - Proof-of-Concept Development
-  - Security Tooling
-  - Automated Vulnerability Detection
+currently_exploring:
+  - Advanced Web Exploitation
+  - AI Agent Security
+  - Security Automation
+  - Vulnerability Research
 ````
 
----
-
-# 🛡️ Security Focus Areas
-
-| Area                      | Focus                                                                                     |
-| ------------------------- | ----------------------------------------------------------------------------------------- |
-| 🌐 Web Security           | Application vulnerabilities, authentication, authorization, injection, and business logic |
-| 🔌 API Security           | BOLA, BFLA, authorization, JWT, rate limiting, and endpoint abuse                         |
-| 📱 Android Security       | Static analysis, dynamic analysis, reverse engineering, IPC, and WebView security         |
-| 🤖 AI / LLM Security      | Prompt injection, RAG security, agent security, and tool-calling risks                    |
-| 🔬 Vulnerability Research | CVE analysis, root-cause analysis, and exploitability research                            |
-| ⚙️ Security Automation    | Python tooling, scanners, automation, and security pipelines                              |
-| ☁️ DevSecOps              | CI/CD security, RBAC, secure deployment, and automation                                   |
+> 🔐 **Security isn't just about finding vulnerabilities — it's about understanding, fixing, and preventing them.**
 
 ---
 
-# 🔍 Technical Skills
+<!-- ========================================================= -->
+
+<!--                  SECURITY FOCUS AREAS                      -->
+
+<!-- ========================================================= -->
+
+## 🛡️ Security Focus Areas
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Security
+
+* SQL & NoSQL Injection
+* Cross-Site Scripting
+* Server-Side Request Forgery
+* Server-Side Template Injection
+* Remote Code Execution
+* Authentication & Authorization
+* Business Logic Vulnerabilities
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔌 API Security
+
+* BOLA / IDOR
+* Broken Function-Level Authorization
+* JWT Security
+* API Authentication
+* Mass Assignment
+* Rate Limit Testing
+* Business Logic Testing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Android Security
+
+* Static Analysis
+* Dynamic Analysis
+* APK Analysis
+* Reverse Engineering
+* WebView Security
+* IPC Security
+* Local Storage Analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / LLM Security
+
+* Prompt Injection
+* Indirect Prompt Injection
+* AI Agent Security
+* RAG Security
+* Tool Calling Risks
+* Prompt Leakage
+* LLM Application Security
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    TECHNICAL SKILLS                        -->
+
+<!-- ========================================================= -->
+
+## ⚡ Technical Skills
 
 <details>
 <summary><b>🌐 Web Application Security</b></summary>
 
 <br>
 
-`SQL Injection` · `NoSQL Injection` · `Command Injection` · `XPath Injection` · `XSS` · `CSRF` · `XXE` · `SSRF` · `IDOR` · `BOLA` · `HTTP Request Smuggling` · `HTTP Parameter Pollution` · `Host Header Injection` · `RCE` · `Path Traversal` · `Open Redirect` · `HTML Injection` · `Template Injection` · `Prototype Pollution` · `Cache Poisoning` · `Clickjacking` · `CORS Misconfiguration` · `JWT Manipulation` · `Session Fixation` · `Authentication Bypass` · `Privilege Escalation` · `Mass Assignment` · `Business Logic Flaws` · `WAF Evasion Testing`
+`SQL Injection` • `NoSQL Injection` • `Command Injection` • `XSS` • `CSRF` • `XXE` • `SSRF` • `IDOR` • `BOLA` • `HTTP Request Smuggling` • `Path Traversal` • `Open Redirect` • `SSTI` • `Prototype Pollution` • `Cache Poisoning` • `CORS Misconfiguration` • `JWT Manipulation` • `Authentication Bypass` • `Privilege Escalation` • `Mass Assignment` • `Business Logic Flaws`
 
 </details>
 
@@ -91,7 +159,7 @@ Research:
 
 <br>
 
-`BOLA` · `BFLA` · `IDOR` · `Mass Assignment` · `Broken Authentication` · `JWT Security` · `Rate Limit Testing` · `Business Logic Testing` · `CORS Testing` · `Endpoint Enumeration` · `API Abuse` · `Authorization Testing`
+`BOLA` • `BFLA` • `IDOR` • `JWT Security` • `Mass Assignment` • `Broken Authentication` • `Rate Limit Testing` • `Endpoint Enumeration` • `Authorization Testing` • `Business Logic Testing`
 
 </details>
 
@@ -100,7 +168,7 @@ Research:
 
 <br>
 
-`Static Analysis` · `Dynamic Analysis` · `Local Storage Analysis` · `IPC Testing` · `Network Security Testing` · `Reverse Engineering` · `Frida Hooking` · `WebView Security` · `Root Detection Analysis` · `Binary Analysis` · `APK Analysis`
+`APK Analysis` • `Static Analysis` • `Dynamic Analysis` • `Reverse Engineering` • `Frida Hooking` • `WebView Security` • `IPC Testing` • `Network Security Testing` • `Binary Analysis`
 
 </details>
 
@@ -109,344 +177,338 @@ Research:
 
 <br>
 
-`Prompt Injection` · `Indirect Prompt Injection` · `Jailbreak Testing` · `System Prompt Leakage` · `Prompt Leakage` · `Hallucination Testing` · `RAG Security` · `Tool Calling Security` · `AI Agent Security` · `LLM Application Security` · `OWASP LLM Top 10`
-
-</details>
-
-<details>
-<summary><b>🔬 Vulnerability Research</b></summary>
-
-<br>
-
-`CVE Analysis` · `Root Cause Analysis` · `Patch Analysis` · `PoC Development` · `Exploitability Assessment` · `Vulnerability Validation` · `Security Advisory Research`
+`Prompt Injection` • `Indirect Prompt Injection` • `Jailbreak Testing` • `System Prompt Leakage` • `RAG Security` • `AI Agent Security` • `Tool Calling Security` • `OWASP LLM Top 10`
 
 </details>
 
 ---
 
-# ⚙️ Technologies & Tools
+<!-- ========================================================= -->
+
+<!--                  LANGUAGES & PLATFORMS                     -->
+
+<!-- ========================================================= -->
 
 ## 💻 Languages & Platforms
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,bash,js,php,html,css,linux,mysql,git,aws,docker,jenkins,githubactions"
-    alt="Technologies and Platforms"
-  />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,js,php,html,css" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,mysql,git,github,docker,aws,jenkins" />
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    SECURITY TOOLING                        -->
+
+<!-- ========================================================= -->
 
 ## 🛠️ Security Tooling
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLMap" />
+<img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+<br>
 
-<img src="https://img.shields.io/badge/Frida-FF6B6B?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />
+<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/APKTool-00C853?style=for-the-badge&logo=android&logoColor=white" alt="APKTool" />
+<img src="https://img.shields.io/badge/Frida-FF4B91?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/John%20the%20Ripper-8B4513?style=for-the-badge&logo=linux&logoColor=white" alt="John the Ripper" />
+<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat" />
+<img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge" alt="Nuclei" />
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+<!-- ========================================================= -->
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xgh057r3c0n&theme=github_dark"
-    width="95%"
-    alt="GitHub Profile Details"
-  />
-</p>
+<!--                    GITHUB ANALYTICS                        -->
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xgh057r3c0n&theme=github_dark"
-    width="48%"
-    alt="GitHub Statistics"
-  />
+<!-- ========================================================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 <img
- src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xgh057r3c0n&theme=github_dark"
- width="48%"
- alt="Top Languages"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xgh057r3c0n&theme=github_dark"
+width="95%"
+alt="GitHub Profile Summary"
 />
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xgh057r3c0n&theme=github_dark"
+width="49%"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xgh057r3c0n&theme=github_dark"
+width="49%"
+alt="Top Languages"
+/>
+
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+<!-- ========================================================= -->
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=0xgh057r3c0n&theme=radical&hide_border=true"
-    alt="GitHub Contribution Streak"
+<!--                      GITHUB STREAK                         -->
+
+<!-- ========================================================= -->
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=0xgh057r3c0n&theme=github-dark-blue&hide_border=true"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    CONTRIBUTION SNAKE                      -->
+
+<!-- ========================================================= -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake-dark.svg"
   />
-</p>
 
----
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=0xgh057r3c0n&theme=github-compact&hide_border=true"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake-dark.svg"
-    />
-
-```
 <source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake.svg"
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake.svg"
 />
 
 <img
-  alt="GitHub Contribution Snake"
-  src="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake-dark.svg"
-/>
-```
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake-dark.svg"
+/> </picture>
 
-  </picture>
-</p>
+</div>
 
 ---
 
-# 🚀 Public CVE Research
+<!-- ========================================================= -->
 
-| CVE ID                                                            | Research Area                             | Severity    |
-| ----------------------------------------------------------------- | ----------------------------------------- | ----------- |
-| [CVE-2025-25257](https://nvd.nist.gov/vuln/detail/CVE-2025-25257) | FortiWeb SQL Injection → RCE              | 🔴 Critical |
-| [CVE-2025-3102](https://nvd.nist.gov/vuln/detail/CVE-2025-3102)   | SureTriggers Authorization Bypass         | 🟠 High     |
-| [CVE-2025-31125](https://nvd.nist.gov/vuln/detail/CVE-2025-31125) | Vite WASM Path Traversal                  | 🟠 High     |
-| [CVE-2025-31161](https://nvd.nist.gov/vuln/detail/CVE-2025-31161) | CrushFTP Authentication Bypass            | 🔴 Critical |
-| [CVE-2025-3248](https://nvd.nist.gov/vuln/detail/CVE-2025-3248)   | Langflow AI RCE                           | 🔴 Critical |
-| [CVE-2025-34077](https://nvd.nist.gov/vuln/detail/CVE-2025-34077) | Pie Register Admin Session Hijacking      | 🟠 High     |
-| [CVE-2025-34085](https://nvd.nist.gov/vuln/detail/CVE-2025-34085) | Simple File List Plugin RCE               | 🔴 Critical |
-| [CVE-2025-47812](https://nvd.nist.gov/vuln/detail/CVE-2025-47812) | Wing FTP Server Lua Injection → RCE       | 🔴 Critical |
-| [CVE-2025-48827](https://nvd.nist.gov/vuln/detail/CVE-2025-48827) | vBulletin Critical API Access             | 🔴 Critical |
-| [CVE-2025-5777](https://nvd.nist.gov/vuln/detail/CVE-2025-5777)   | Citrix NetScaler Memory Leak              | 🟡 Medium   |
-| [CVE-2025-6058](https://nvd.nist.gov/vuln/detail/CVE-2025-6058)   | WPBlock Unauthenticated File Upload → RCE | 🔴 Critical |
+<!--                      CVE RESEARCH                          -->
 
-### 📂 Research & Proofs of Concept
+<!-- ========================================================= -->
 
-[Visit My GitHub Profile](https://github.com/0xgh057r3c0n)
+## 🔬 Public CVE Research
 
----
+| CVE ID         | Research Area                     | Severity    |
+| -------------- | --------------------------------- | ----------- |
+| CVE-2025-25257 | FortiWeb SQL Injection            | 🔴 Critical |
+| CVE-2025-3102  | SureTriggers Authorization Bypass | 🟠 High     |
+| CVE-2025-31125 | Vite Path Traversal               | 🟠 High     |
+| CVE-2025-31161 | CrushFTP Authentication Bypass    | 🔴 Critical |
+| CVE-2025-3248  | Langflow Security Research        | 🔴 Critical |
+| CVE-2025-34077 | Pie Register Security Research    | 🟠 High     |
+| CVE-2025-34085 | File Upload Security Research     | 🔴 Critical |
+| CVE-2025-47812 | Wing FTP Server Research          | 🔴 Critical |
+| CVE-2025-48827 | vBulletin API Research            | 🔴 Critical |
+| CVE-2025-5777  | Citrix NetScaler Research         | 🟡 Medium   |
+| CVE-2025-6058  | WPBlock File Upload Research      | 🔴 Critical |
 
-# 📝 Technical Publications
+<div align="center">
 
-<p>
-  <a href="https://medium.com/@gauravbhattacharjee54">
-    <img
-      src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
-      alt="Medium"
-    />
-  </a>
-</p>
+### 🔎 Explore My Research
 
-## 🔬 Obfuscate
+<a href="https://github.com/0xgh057r3c0n">
+  <img src="https://img.shields.io/badge/VIEW%20RESEARCH-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**A Powerful Tool for Bypassing Web Application Firewalls (WAFs) Using Obfuscation**
-
-📅 August 2025
-
-[Read the Article →](https://medium.com/@gauravbhattacharjee54)
+</div>
 
 ---
 
-# 💼 Professional Experience
+<!-- ========================================================= -->
 
-```mermaid
-timeline
-    title Career Timeline
+<!--                     EXPERIENCE                             -->
 
-    2024 : Prodigy Infotech
-         : Cyber Security Intern
+<!-- ========================================================= -->
 
-    2024 : The Red Users
-         : Cyber Security Intern
+## 💼 Professional Experience
 
-    2024-2025 : Code Alpha
-              : Cyber Security Intern
+### 🛡️ Security Admin Associate L1
 
-    2026-Present : Infotact Solutions
-                 : Security Admin Associate L1
-```
+**Infotact Solutions**
 
-## 🛡️ Security Admin Associate L1 — Infotact Solutions
+* Secure infrastructure and application security
+* CI/CD security implementation
+* GitHub Actions and access-control workflows
+* Security automation
+* Secure engineering practices
 
-**Jun 2026 – Present**
+### 🔒 Cyber Security Intern
 
-* Developing secure OTA firmware update and code-signing infrastructure
-* Building an AI-powered PHI/PII redaction pipeline for LLM applications
-* Engineering a SOAR-based incident containment engine
-* Implementing secure CI/CD pipelines
-* Working with GitHub Actions and RBAC
-* Applying security engineering principles to real-world systems
+**Code Alpha**
 
-## 🔒 Cyber Security Intern — Code Alpha
+* Developed security-focused projects
+* Built a packet sniffer using Scapy
+* Created a secure file-transfer system
+* Developed security dashboards
 
-**Nov 2024 – Feb 2025**
+### 🛡️ Cyber Security Intern
 
-* Built a bug bounty platform
-* Developed a packet sniffer using Scapy
-* Developed a secure file-transfer system with encryption
-* Created Streamlit dashboards for security visibility
-* Received a Letter of Recommendation
+**The Red Users**
 
-## 🛡️ Cyber Security Intern — The Red Users
+* Network traffic monitoring
+* Vulnerability assessment
+* Security threat investigation
+* Security analysis
 
-**Oct 2024 – Nov 2024**
+### 🔑 Cyber Security Intern
 
-* Monitored network traffic
-* Investigated security threats
-* Performed vulnerability assessments
-* Conducted security analysis
+**Prodigy Infotech**
 
-## 🔑 Cyber Security Intern — Prodigy Infotech
-
-**Nov 2024**
-
-* Developed a Caesar cipher implementation
-* Built image encryption projects
-* Developed a password strength checker
-* Built a packet analyzer
+* Cryptography projects
+* Password strength analysis
+* Image encryption
+* Packet analysis
 
 ---
 
-# 🎓 Certifications & Education
+<!-- ========================================================= -->
 
-## 📜 Certifications
+<!--                   CERTIFICATIONS                           -->
 
-<p align="left">
+<!-- ========================================================= -->
 
-<img src="https://img.shields.io/badge/EC--Council-Ethical%20Hacker%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Ethical Hacker Essentials" />
+## 🎓 Certifications
 
-<img src="https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Network Defense Essentials" />
+<div align="center">
 
-<img src="https://img.shields.io/badge/EC--Council-Digital%20Forensic%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Digital Forensic Essentials" />
+<img src="https://img.shields.io/badge/EC--Council-Ethical%20Hacker%20Essentials-00AEEF?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Programming%20Hub-Ethical%20Hacking-FF6B6B?style=for-the-badge" alt="Ethical Hacking" />
+<img src="https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-00AEEF?style=for-the-badge" />
 
-</p>
+<br>
 
-## 🎓 Education
+<img src="https://img.shields.io/badge/EC--Council-Digital%20Forensic%20Essentials-00AEEF?style=for-the-badge" />
 
-* **National Institute of Open Schooling** — Secondary Education
-* **Bongaigaon College** — Higher Secondary Education, Fine Arts
+<img src="https://img.shields.io/badge/Programming%20Hub-Ethical%20Hacking-FF4B91?style=for-the-badge" />
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<!-- ========================================================= -->
 
-<p align="left">
+<!--                     CONNECT                                -->
+
+<!-- ========================================================= -->
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="mailto:gauravbhattacharjee54@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/gaurav-bhattacharjee/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/0xgh057r3c0n">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://0xgh057r3c0n.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@gauravbhattacharjee54">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🌍 Languages
+<!-- ========================================================= -->
 
-| Language      | Proficiency |
-| ------------- | ----------- |
-| 🇬🇧 English  | Fluent      |
-| 🇮🇳 Hindi    | Fluent      |
-| 🇮🇳 Bengali  | Fluent      |
-| 🇮🇳 Assamese | Fluent      |
+<!--                  PROFILE STATISTICS                        -->
 
----
+<!-- ========================================================= -->
 
-# 👀 Profile Statistics
+## 👀 Profile Statistics
 
-<p align="center">
+<div align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=0xgh057r3c0n&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=0xgh057r3c0n&label=PROFILE%20VIEWS&style=for-the-badge&color=00FF88"
 alt="Profile Views"
 />
 
 <img
-src="https://img.shields.io/github/followers/0xgh057r3c0n?style=for-the-badge&logo=github&label=FOLLOWERS&color=00FFAA"
+src="https://img.shields.io/github/followers/0xgh057r3c0n?style=for-the-badge&logo=github&label=FOLLOWERS"
 alt="GitHub Followers"
 />
 
-</p>
+</div>
 
 ---
 
-# ☕ Support My Work
+<!-- ========================================================= -->
 
-<p align="left">
+<!--                      SUPPORT                               -->
+
+<!-- ========================================================= -->
+
+## ☕ Support My Work
+
+<div align="center">
 
 <a href="https://buymeacoffee.com/gauravbhaty">
-  <img
-    src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
-    alt="Buy Me a Coffee"
-  />
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
 <a href="https://ko-fi.com/0xgh057r3c0n">
-  <img
-    src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"
-    alt="Ko-fi"
-  />
+  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-  🔐 Security isn't just about finding vulnerabilities — it's about understanding, fixing, and preventing them.
-</h3>
+<div align="center">
 
-<p align="center">
-  <b>⭐ If you find my research useful, consider starring the repositories! ⭐</b>
-</p>
+### 🔐 Think Secure. Test Responsibly. Build Better.
+
+**⭐ If you find my research useful, consider following my GitHub profile and starring the repositories. ⭐**
+
+</div>
+* Add a working Snake workflow
+* Audit the README links
