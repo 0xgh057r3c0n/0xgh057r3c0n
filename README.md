@@ -1,13 +1,17 @@
-<!-- PROFILE HEADER -->
+
+<!-- =========================================================
+     PROFILE HEADER
+========================================================= -->
 
 <p align="center">
-  <img
-    src="https://github.com/0xgh057r3c0n.png"
-    alt="Gaurav Bhattacharjee"
-    width="160"
-    height="160"
-    style="border-radius: 50%;"
-  />
+  <a href="https://github.com/0xgh057r3c0n">
+    <img
+      src="https://github.com/0xgh057r3c0n.png?size=200"
+      alt="Gaurav Bhattacharjee"
+      width="160"
+      height="160"
+    />
+  </a>
 </p>
 
 <h1 align="center">Hi 👋 I'm Gaurav Bhattacharjee</h1>
@@ -20,16 +24,17 @@
   <a href="https://github.com/0xgh057r3c0n">
     <img src="https://img.shields.io/badge/GitHub-0xgh057r3c0n-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Experience" />
+
   <img src="https://img.shields.io/badge/CVE%20Research-11%2B-F7DF1E?style=for-the-badge&labelColor=0D1117" alt="CVE Research" />
+
   <img src="https://img.shields.io/badge/Focus-Web%20%7C%20API%20%7C%20AI%2FLLM-00FFAA?style=for-the-badge&labelColor=0D1117" alt="Focus Areas" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
-</p>
+---
 
-## 🚀 About Me
+# 🚀 About Me
 
 I'm a cybersecurity researcher and penetration tester focused on discovering, understanding, and responsibly demonstrating security vulnerabilities in modern applications and infrastructure.
 
@@ -56,11 +61,11 @@ Research:
   - Proof-of-Concept Development
   - Security Tooling
   - Automated Vulnerability Detection
-```
+````
 
 ---
 
-## 🛡️ Security Focus Areas
+# 🛡️ Security Focus Areas
 
 | Area                      | Focus                                                                                     |
 | ------------------------- | ----------------------------------------------------------------------------------------- |
@@ -74,7 +79,7 @@ Research:
 
 ---
 
-## 🔍 Technical Skills
+# 🔍 Technical Skills
 
 <details>
 <summary><b>🌐 Web Application Security</b></summary>
@@ -123,32 +128,46 @@ Research:
 
 ---
 
-## ⚙️ Technologies & Tools
+# ⚙️ Technologies & Tools
 
-### Languages & Platforms
+## 💻 Languages & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js,php,html,css,linux,mysql,git,aws,docker,jenkins,githubactions" alt="Technologies and Platforms" />
+  <img
+    src="https://skillicons.dev/icons?i=python,bash,js,php,html,css,linux,mysql,git,aws,docker,jenkins,githubactions"
+    alt="Technologies and Platforms"
+  />
 </p>
 
-### Security Tooling
+## 🛠️ Security Tooling
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLMap" />
-  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Frida-FF6B6B?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />
-  <img src="https://img.shields.io/badge/APKTool-00C853?style=for-the-badge&logo=android&logoColor=white" alt="APKTool" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-8B4513?style=for-the-badge&logo=linux&logoColor=white" alt="John the Ripper" />
-  <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat" />
-  <img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge" alt="Nuclei" />
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+
+<img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLMap" />
+
+<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+
+<img src="https://img.shields.io/badge/Frida-FF6B6B?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />
+
+<img src="https://img.shields.io/badge/APKTool-00C853?style=for-the-badge&logo=android&logoColor=white" alt="APKTool" />
+
+<img src="https://img.shields.io/badge/John%20the%20Ripper-8B4513?style=for-the-badge&logo=linux&logoColor=white" alt="John the Ripper" />
+
+<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat" />
+
+<img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge" alt="Nuclei" />
+
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
@@ -156,16 +175,18 @@ Research:
     height="180"
     alt="GitHub Statistics"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgh057r3c0n&theme=radical&hide_border=true&layout=compact&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgh057r3c0n&theme=radical&hide_border=true&layout=compact&langs_count=8"
+ height="180"
+ alt="Top Languages"
+/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img
@@ -176,7 +197,7 @@ Research:
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
   <img
@@ -188,7 +209,7 @@ Research:
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img
@@ -199,26 +220,33 @@ Research:
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake-dark.svg"
+    />
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/0xgh057r3c0n/0xgh057r3c0n/output/github-contribution-grid-snake-dark.svg"
+/>
+```
+
+  </picture>
+</p>
 
 ---
 
-## 🚀 Public CVE Research
+# 🚀 Public CVE Research
 
 | CVE ID                                                            | Research Area                             | Severity    |
 | ----------------------------------------------------------------- | ----------------------------------------- | ----------- |
@@ -234,31 +262,34 @@ Research:
 | [CVE-2025-5777](https://nvd.nist.gov/vuln/detail/CVE-2025-5777)   | Citrix NetScaler Memory Leak              | 🟡 Medium   |
 | [CVE-2025-6058](https://nvd.nist.gov/vuln/detail/CVE-2025-6058)   | WPBlock Unauthenticated File Upload → RCE | 🔴 Critical |
 
-📂 **Research & PoCs:**
+### 📂 Research & Proofs of Concept
 
-https://github.com/0xgh057r3c0n
+[Visit My GitHub Profile](https://github.com/0xgh057r3c0n)
 
 ---
 
-## 📝 Technical Publications
+# 📝 Technical Publications
 
 <p>
   <a href="https://medium.com/@gauravbhattacharjee54">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img
+      src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+      alt="Medium"
+    />
   </a>
 </p>
 
-### 🔬 Obfuscate
+## 🔬 Obfuscate
 
 **A Powerful Tool for Bypassing Web Application Firewalls (WAFs) Using Obfuscation**
 
 📅 August 2025
 
-[Read the article →](https://medium.com/@gauravbhattacharjee54)
+[Read the Article →](https://medium.com/@gauravbhattacharjee54)
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 ```mermaid
 timeline
@@ -277,7 +308,7 @@ timeline
                  : Security Admin Associate L1
 ```
 
-### 🛡️ Security Admin Associate L1 — Infotact Solutions
+## 🛡️ Security Admin Associate L1 — Infotact Solutions
 
 **Jun 2026 – Present**
 
@@ -288,7 +319,7 @@ timeline
 * Working with GitHub Actions and RBAC
 * Applying security engineering principles to real-world systems
 
-### 🔒 Cyber Security Intern — Code Alpha
+## 🔒 Cyber Security Intern — Code Alpha
 
 **Nov 2024 – Feb 2025**
 
@@ -298,7 +329,7 @@ timeline
 * Created Streamlit dashboards for security visibility
 * Received a Letter of Recommendation
 
-### 🛡️ Cyber Security Intern — The Red Users
+## 🛡️ Cyber Security Intern — The Red Users
 
 **Oct 2024 – Nov 2024**
 
@@ -307,7 +338,7 @@ timeline
 * Performed vulnerability assessments
 * Conducted security analysis
 
-### 🔑 Cyber Security Intern — Prodigy Infotech
+## 🔑 Cyber Security Intern — Prodigy Infotech
 
 **Nov 2024**
 
@@ -318,51 +349,58 @@ timeline
 
 ---
 
-## 🎓 Certifications & Education
+# 🎓 Certifications & Education
 
-### Certifications
+## 📜 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/EC--Council-Ethical%20Hacker%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Ethical Hacker Essentials" />
-  <img src="https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Network Defense Essentials" />
-  <img src="https://img.shields.io/badge/EC--Council-Digital%20Forensic%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Digital Forensic Essentials" />
-  <img src="https://img.shields.io/badge/Programming%20Hub-Ethical%20Hacking-FF6B6B?style=for-the-badge" alt="Ethical Hacking" />
+
+<img src="https://img.shields.io/badge/EC--Council-Ethical%20Hacker%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Ethical Hacker Essentials" />
+
+<img src="https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Network Defense Essentials" />
+
+<img src="https://img.shields.io/badge/EC--Council-Digital%20Forensic%20Essentials-00AAFF?style=for-the-badge&logoColor=white" alt="Digital Forensic Essentials" />
+
+<img src="https://img.shields.io/badge/Programming%20Hub-Ethical%20Hacking-FF6B6B?style=for-the-badge" alt="Ethical Hacking" />
+
 </p>
 
-### Education
+## 🎓 Education
 
 * **National Institute of Open Schooling** — Secondary Education
 * **Bongaigaon College** — Higher Secondary Education, Fine Arts
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:gauravbhattacharjee54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/gaurav-bhattacharjee/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="mailto:gauravbhattacharjee54@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
-  <a href="https://github.com/0xgh057r3c0n">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://www.linkedin.com/in/gaurav-bhattacharjee/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-  <a href="https://0xgh057r3c0n.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
+<a href="https://github.com/0xgh057r3c0n">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-  <a href="https://medium.com/@gauravbhattacharjee54">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+<a href="https://0xgh057r3c0n.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://medium.com/@gauravbhattacharjee54">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
 </p>
 
 ---
 
-## 🌍 Languages
+# 🌍 Languages
 
 | Language      | Proficiency |
 | ------------- | ----------- |
@@ -373,51 +411,45 @@ timeline
 
 ---
 
-## 👀 Profile Statistics
+# 👀 Profile Statistics
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=0xgh057r3c0n&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
 
 <img
- src="https://img.shields.io/github/followers/0xgh057r3c0n?style=for-the-badge&logo=github&label=FOLLOWERS&color=00FFAA"
- alt="GitHub Followers"
+src="https://komarev.com/ghpvc/?username=0xgh057r3c0n&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+alt="Profile Views"
 />
 
 <img
- src="https://img.shields.io/github/stars/0xgh057r3c0n?style=for-the-badge&logo=github&label=STARS&color=FFD700"
- alt="GitHub Stars"
+src="https://img.shields.io/github/followers/0xgh057r3c0n?style=for-the-badge&logo=github&label=FOLLOWERS&color=00FFAA"
+alt="GitHub Followers"
 />
 
 </p>
 
 ---
 
-## ☕ Support My Work
+# ☕ Support My Work
 
 <p align="left">
-  <a href="https://buymeacoffee.com/gauravbhaty">
-    <img
-      src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
-      alt="Buy Me a Coffee"
-    />
-  </a>
 
-  <a href="https://ko-fi.com/0xgh057r3c0n">
-    <img
-      src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"
-      alt="Ko-fi"
-    />
-  </a>
+<a href="https://buymeacoffee.com/gauravbhaty">
+  <img
+    src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+    alt="Buy Me a Coffee"
+  />
+</a>
+
+<a href="https://ko-fi.com/0xgh057r3c0n">
+  <img
+    src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"
+    alt="Ko-fi"
+  />
+</a>
+
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="" />
-</p>
 
 <h3 align="center">
   🔐 Security isn't just about finding vulnerabilities — it's about understanding, fixing, and preventing them.
@@ -426,3 +458,4 @@ timeline
 <p align="center">
   <b>⭐ If you find my research useful, consider starring the repositories! ⭐</b>
 </p>
+`
