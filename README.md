@@ -200,14 +200,13 @@ Research:
 </p>
 
 ---
-
 # 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=0xgh057r3c0n&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&hide_border=true"
-    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0xgh057r3c0n&theme=github-compact&hide_border=true"
     alt="GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
