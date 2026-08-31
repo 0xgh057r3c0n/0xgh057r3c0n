@@ -1,4 +1,3 @@
-
 <!-- =========================================================
      PROFILE HEADER
 ========================================================= -->
@@ -24,11 +23,8 @@
   <a href="https://github.com/0xgh057r3c0n">
     <img src="https://img.shields.io/badge/GitHub-0xgh057r3c0n-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Experience" />
-
   <img src="https://img.shields.io/badge/CVE%20Research-11%2B-F7DF1E?style=for-the-badge&labelColor=0D1117" alt="CVE Research" />
-
   <img src="https://img.shields.io/badge/Focus-Web%20%7C%20API%20%7C%20AI%2FLLM-00FFAA?style=for-the-badge&labelColor=0D1117" alt="Focus Areas" />
 </p>
 
@@ -171,14 +167,22 @@ Research:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=0xgh057r3c0n&show_icons=true&theme=radical&hide_border=true"
-    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xgh057r3c0n&theme=github_dark"
+    width="95%"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xgh057r3c0n&theme=github_dark"
+    width="48%"
     alt="GitHub Statistics"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgh057r3c0n&theme=radical&hide_border=true&layout=compact&langs_count=8"
- height="180"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xgh057r3c0n&theme=github_dark"
+ width="48%"
  alt="Top Languages"
 />
 
@@ -201,20 +205,9 @@ Research:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=0xgh057r3c0n&bg_color=0D1117&color=00FFAA&line=FF6B6B&point=FFFFFF&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0xgh057r3c0n&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&hide_border=true"
     width="95%"
     alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=0xgh057r3c0n&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
   />
 </p>
 
@@ -458,4 +451,3 @@ alt="GitHub Followers"
 <p align="center">
   <b>⭐ If you find my research useful, consider starring the repositories! ⭐</b>
 </p>
-`
