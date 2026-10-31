@@ -1,148 +1,103 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        GAURAV BHATTACHARJEE                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav+Bhattacharjee;Cybersecurity+Researcher;Penetration+Tester;Vulnerability+Hunter" alt="Typing SVG" />
+</h1>
 
-<div align="center">
+<p align="center">
+  <em>Breaking systems to make them safer. Web · API · Android · AI/LLM Security.</em>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Gaurav%20Bhattacharjee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20Vulnerability%20Researcher&descSize=14&descAlignY=58&descAlign=50" width="100%" />
+<p align="center">
+  <a href="https://github.com/0xgh057r3c0n"><img src="https://img.shields.io/badge/GitHub-0xgh057r3c0n-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-bhattacharjee/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gauravbhattacharjee54@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@gauravbhattacharjee54"><img src="https://img.shields.io/badge/Medium-Writing-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
-<img src="https://github.com/0xgh057r3c0n.png?size=200" width="110" alt="Gaurav Bhattacharjee" style="border-radius:50%;border:3px solid #A78BFA;margin-top:-55px" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xgh057r3c0n&label=Profile%20Views&color=F75C7E&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/0xgh057r3c0n?label=Followers&style=flat-square&color=F75C7E&logo=github" alt="Followers" />
+</p>
 
-<br>
+---
 
-**Breaking systems to make them safer.**
+## 👨‍💻 About Me
 
-<sub>Web · API · Android · AI/LLM Security</sub>
+```yaml
+name: Gaurav Bhattacharjee
+located_in: India
+current_roles: [Security Researcher, Pentester, Vulnerability Researcher]
+focus_areas: [Web Security, API Security, Android Security, AI/LLM Security]
+currently_exploring: [Advanced Web Exploitation, AI Agent Security, Security Automation]
+```
 
-<br><br>
+- 🔭 I'm currently working on **advanced web exploitation & AI agent security**
+- 🌱 I'm currently learning **vulnerability research methodologies & DevSecOps**
+- 👯 I'm looking to collaborate on **open-source security tooling & CVE research**
+- 💬 Ask me about **Web/API pentesting, Android security, or LLM risks**
+- 📫 How to reach me: **gauravbhattacharjee54@gmail.com**
+- ⚡ Fun fact: **I break things ethically so they can be built better.**
 
-<a href="https://github.com/0xgh057r3c0n"><img src="https://img.shields.io/badge/GitHub-0xgh057r3c0n-1a1b27?style=flat-square&logo=github&logoColor=A78BFA" /></a>
-<a href="https://www.linkedin.com/in/gaurav-bhattacharjee/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b27?style=flat-square&logo=linkedin&logoColor=22D3EE" /></a>
-<a href="mailto:gauravbhattacharjee54@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1a1b27?style=flat-square&logo=gmail&logoColor=F472B6" /></a>
-<a href="https://medium.com/@gauravbhattacharjee54"><img src="https://img.shields.io/badge/Medium-Writing-1a1b27?style=flat-square&logo=medium&logoColor=ffffff" /></a>
+---
 
-<br>
+## 🛠️ Tech Stack
 
-<img src="https://komarev.com/ghpvc/?username=0xgh057r3c0n&label=Views&style=flat-square&color=A78BFA" />
-<img src="https://img.shields.io/github/followers/0xgh057r3c0n?label=Followers&style=flat-square&color=F472B6&logo=github&logoColor=white" />
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,js,php,html,css" />
+</p>
 
-</div>
+### Platforms & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,mysql,git,github,docker,aws,jenkins" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+### Security Arsenal
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLMap-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frida-FF4B91?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hashcat-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nuclei-00BFFF?style=flat-square" />
+</p>
 
-## `01` · About
+---
 
-<table>
-<tr>
-<td width="65%" valign="top">
+## 📊 GitHub Analytics
 
-Cybersecurity professional specialising in **offensive security**, **vulnerability research**, and **secure engineering**. I find, exploit, and remediate real-world vulnerabilities across web applications, APIs, mobile platforms, and AI/LLM systems.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xgh057r3c0n&theme=radical" width="95%" alt="Profile Summary" />
+</p>
 
-Published researcher with multiple assigned **CVEs**, and a builder of security automation embedded directly into **CI/CD pipelines**.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xgh057r3c0n&theme=radical" width="32%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xgh057r3c0n&theme=radical" width="32%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xgh057r3c0n&theme=radical" width="32%" alt="Most Commit Language" />
+</p>
 
-</td>
-<td width="35%" valign="top">
+---
 
-<blockquote>
-<em>“Security isn't just about finding vulnerabilities — it's about understanding, fixing, and preventing them.”</em>
-</blockquote>
+## 🔥 Streak Stats
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=0xgh057r3c0n&theme=radical&hide_border=true" width="95%" alt="GitHub Streak" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+---
 
-## `02` · Focus Areas
+## 🏆 GitHub Trophies
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xgh057r3c0n&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" width="95%" alt="Trophies" />
+</p>
 
-### 🌐 &nbsp; Web Security
+---
 
-<sub>`SQLi` `NoSQLi` `XSS` `CSRF` `XXE` `SSRF` `SSTI` `IDOR` `RCE` `HTTP Smuggling` `Path Traversal` `Prototype Pollution` `Cache Poisoning` `JWT Manipulation` `Auth Bypass` `Priv Escalation` `Logic Flaws`</sub>
+## 🔬 Featured CVE Research
 
-</td>
-<td width="50%" valign="top">
-
-### 🔌 &nbsp; API Security
-
-<sub>`BOLA` `BFLA` `IDOR` `JWT Security` `Mass Assignment` `Broken Auth` `Rate Limiting` `Endpoint Enum` `AuthZ Testing` `Logic Testing`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 &nbsp; Android Security
-
-<sub>`APK Analysis` `Static Analysis` `Dynamic Analysis` `Reverse Engineering` `Frida Hooking` `WebView Security` `IPC Testing` `Network Testing` `Binary Analysis`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 &nbsp; AI / LLM Security
-
-<sub>`Prompt Injection` `Indirect Injection` `Jailbreak Testing` `System Prompt Leakage` `RAG Security` `AI Agent Security` `Tool Calling` `OWASP LLM Top 10`</sub>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
-
-## `03` · Capabilities
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**⚔️ &nbsp; Offensive**
-
-`Web App Pentesting` · `API Security Assessment` · `Android Security` · `AI/LLM Security` · `Vulnerability Research` · `CVE Discovery` · `Exploit Development` · `PoC Engineering`
-
-</td>
-<td width="50%" valign="top">
-
-**🛡️ &nbsp; Defensive**
-
-`DevSecOps` · `CI/CD Security` · `GitHub Actions Hardening` · `Access Control Workflows` · `Security Automation` · `Threat Modeling` · `Secure SDLC` · `Architecture Review`
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
-
-## `04` · Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,js,php,html,css&theme=dark&perline=6" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,mysql,git,github,docker,aws,jenkins&theme=dark&perline=7" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-1a1b27?style=flat-square&logo=burpsuite&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/OWASP%20ZAP-1a1b27?style=flat-square&logo=owasp&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Nmap-1a1b27?style=flat-square&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/SQLMap-1a1b27?style=flat-square" />
-<img src="https://img.shields.io/badge/Metasploit-1a1b27?style=flat-square&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Frida-1a1b27?style=flat-square&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Hashcat-1a1b27?style=flat-square" />
-<img src="https://img.shields.io/badge/Nuclei-1a1b27?style=flat-square&logoColor=F472B6" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
-
-## `05` · Selected CVE Research
-
-<table>
+<table align="center">
 <thead>
 <tr>
 <th align="left">CVE</th>
@@ -151,114 +106,61 @@ Published researcher with multiple assigned **CVEs**, and a builder of security 
 </tr>
 </thead>
 <tbody>
-<tr><td><code>CVE-2025-25257</code></td><td>FortiWeb SQL Injection</td><td><code>CRITICAL</code></td></tr>
-<tr><td><code>CVE-2025-31161</code></td><td>CrushFTP Authentication Bypass</td><td><code>CRITICAL</code></td></tr>
-<tr><td><code>CVE-2025-3248</code></td><td>Langflow Security Research</td><td><code>CRITICAL</code></td></tr>
-<tr><td><code>CVE-2025-34085</code></td><td>File Upload Security Research</td><td><code>CRITICAL</code></td></tr>
-<tr><td><code>CVE-2025-47812</code></td><td>Wing FTP Server Research</td><td><code>CRITICAL</code></td></tr>
-<tr><td><code>CVE-2025-48827</code></td><td>vBulletin API Research</td><td><code>CRITICAL</code></td></tr>
-<tr><td><code>CVE-2025-6058</code></td><td>WPBlock File Upload Research</td><td><code>CRITICAL</code></td></tr>
-<tr><td><code>CVE-2025-3102</code></td><td>SureTriggers Authorization Bypass</td><td><code>HIGH</code></td></tr>
-<tr><td><code>CVE-2025-31125</code></td><td>Vite Path Traversal</td><td><code>HIGH</code></td></tr>
-<tr><td><code>CVE-2025-34077</code></td><td>Pie Register Security Research</td><td><code>HIGH</code></td></tr>
-<tr><td><code>CVE-2025-5777</code></td><td>Citrix NetScaler Research</td><td><code>MEDIUM</code></td></tr>
+<tr><td><code>CVE-2025-25257</code></td><td>FortiWeb SQL Injection</td><td>🔴 Critical</td></tr>
+<tr><td><code>CVE-2025-31161</code></td><td>CrushFTP Authentication Bypass</td><td>🔴 Critical</td></tr>
+<tr><td><code>CVE-2025-3248</code></td><td>Langflow Security Research</td><td>🔴 Critical</td></tr>
+<tr><td><code>CVE-2025-34085</code></td><td>File Upload Security Research</td><td>🔴 Critical</td></tr>
+<tr><td><code>CVE-2025-47812</code></td><td>Wing FTP Server Research</td><td>🔴 Critical</td></tr>
+<tr><td><code>CVE-2025-48827</code></td><td>vBulletin API Research</td><td>🔴 Critical</td></tr>
+<tr><td><code>CVE-2025-6058</code></td><td>WPBlock File Upload Research</td><td>🔴 Critical</td></tr>
+<tr><td><code>CVE-2025-3102</code></td><td>SureTriggers Authorization Bypass</td><td>🟠 High</td></tr>
+<tr><td><code>CVE-2025-31125</code></td><td>Vite Path Traversal</td><td>🟠 High</td></tr>
+<tr><td><code>CVE-2025-34077</code></td><td>Pie Register Security Research</td><td>🟠 High</td></tr>
 </tbody>
 </table>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/0xgh057r3c0n"><img src="https://img.shields.io/badge/Explore%20All%20Research-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
-<a href="https://github.com/0xgh057r3c0n"><img src="https://img.shields.io/badge/Explore%20Full%20Portfolio-1a1b27?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+---
 
-</div>
+## 💼 Experience
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+| Role | Organization | Highlights |
+| :--- | :--- | :--- |
+| **Security Admin Associate L1** | Infotact Solutions | Infrastructure & application security · CI/CD security · GitHub Actions & access-control · Security automation |
+| **Cyber Security Intern** | Code Alpha | Scapy packet sniffer · Secure file-transfer system · Security dashboards |
+| **Cyber Security Intern** | The Red Users | Network traffic monitoring · Vulnerability assessment · Threat investigation |
+| **Cyber Security Intern** | Prodigy Infotech | Cryptography projects · Password strength analysis · Image encryption · Packet analysis |
 
-## `06` · Experience
+---
 
-<table>
-<thead>
-<tr>
-<th align="left" width="30%">Role & Organization</th>
-<th align="left">Highlights</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Security Admin Associate L1</b><br><sub>Infotact Solutions</sub></td>
-<td>Infrastructure & application security · CI/CD security implementation · GitHub Actions & access-control workflows · Security automation · Secure engineering practices</td>
-</tr>
-<tr>
-<td><b>Cyber Security Intern</b><br><sub>Code Alpha</sub></td>
-<td>Security-focused projects · Scapy packet sniffer · Secure file-transfer system · Security dashboards</td>
-</tr>
-<tr>
-<td><b>Cyber Security Intern</b><br><sub>The Red Users</sub></td>
-<td>Network traffic monitoring · Vulnerability assessment · Threat investigation · Security analysis</td>
-</tr>
-<tr>
-<td><b>Cyber Security Intern</b><br><sub>Prodigy Infotech</sub></td>
-<td>Cryptography projects · Password strength analysis · Image encryption · Packet analysis</td>
-</tr>
-</tbody>
-</table>
+## 🎓 Certifications
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/EC--Council-Ethical%20Hacker%20Essentials-00AEEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-00AEEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EC--Council-Digital%20Forensic%20Essentials-00AEEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Programming%20Hub-Ethical%20Hacking-FF4B91?style=for-the-badge" />
+</p>
 
-## `07` · Certifications
+---
 
-<div align="center">
+## 🤝 Connect With Me
 
-<img src="https://img.shields.io/badge/EC--Council-Ethical%20Hacker%20Essentials-1a1b27?style=flat-square&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-1a1b27?style=flat-square&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/EC--Council-Digital%20Forensic%20Essentials-1a1b27?style=flat-square&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/Programming%20Hub-Ethical%20Hacking-1a1b27?style=flat-square&logoColor=A78BFA" />
+<p align="center">
+  <a href="mailto:gauravbhattacharjee54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-bhattacharjee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/0xgh057r3c0n"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@gauravbhattacharjee54"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
+## ☕ Support My Work
 
-## `08` · Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xgh057r3c0n&theme=github_dark" width="95%" alt="Profile Summary" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xgh057r3c0n&theme=github_dark" width="32%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xgh057r3c0n&theme=github_dark" width="32%" alt="Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xgh057r3c0n&theme=github_dark" width="32%" alt="Top Language" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=0xgh057r3c0n&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=22D3EE&dates=8b949e" width="95%" alt="Streak" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
-
-## `09` · Connect
-
-<div align="center">
-
-<a href="mailto:gauravbhattacharjee54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/gaurav-bhattacharjee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/0xgh057r3c0n"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://medium.com/@gauravbhattacharjee54"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-
-<br><br>
-
-<a href="https://buymeacoffee.com/gauravbhaty"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1a1b27?style=flat-square&logo=buy-me-a-coffee&logoColor=FFDD00" /></a>
-<a href="https://ko-fi.com/0xgh057r3c0n"><img src="https://img.shields.io/badge/Ko--fi-1a1b27?style=flat-square&logo=ko-fi&logoColor=FF5E5B" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Think%20Secure.%20Test%20Responsibly.%20Build%20Better.&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%" />
-
-<div align="center">
-<sub>
-
-*Security research conducted ethically. All vulnerabilities disclosed per coordinated disclosure policies.*
-
-</sub>
-</div>
+<p align="center">
+  <a href="https://buymeacoffee.com/gauravbhaty"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/0xgh057r3c0n"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
